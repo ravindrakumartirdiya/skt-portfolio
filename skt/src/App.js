@@ -16,10 +16,16 @@ function App() {
           <img className='Photo' src={pic} />
         </div>
         <div className='Notes1'>
-          <p>
-          The application uses a similar interface on iOS and macOS, with a non-textured paper background for notes and light yellow icons, suggesting pencil or crayon. Until 2013, both applications used a strongly skeuomorphic interface, with a lined, textured paper design; the Mountain Lion version placed this inside a leather folder. This design was replaced in OS X Mavericks and iOS 7.
-          </p>
-
+       
+               <h2>Hii,</h2>
+                
+                <h3>"I have a passion for creating user experiences that are seamless and impactful."</h3>
+                
+               <h3> Understanding the human experience is essential for creating useful and effective products.</h3>
+                
+               <h3>I enjoy using my skill set to empower people to accomplish their goals. I create digital experiences
+                that make life easier.</h3> 
+            
         </div>
 
 
